@@ -1,0 +1,100 @@
+p {
+  font-family: 'Annie Use Your Telescope';font-size: 20px;color:rgb(112, 98, 105);
+}
+
+h1 {
+  font-family: 'Tangerine';font-size: 100px; color:grey;font-weight: bold;
+}
+h2 {
+  font-family: 'Tangerine';font-size: 80px;; color:rgb(27, 122, 199); margin: 50px 0px 0px 0px; font-weight: bold;
+}
+h3 {
+  font-family: 'Amatic SC';font-size: 30px; color:#FF69B4; margin: 0px 0px 30px 0px; letter-spacing: 3px; 
+}
+.container {
+ padding: 50px 0px 50px 0px; 
+ margin: 0px;
+ max-width: 1640px;
+ background-color: white;
+ }
+.wishes {
+  padding: 70px 0px;text-align: left;
+}
+.wishes img {
+  float: left; padding: 5px 10px; max-width: 20%;
+}
+.wishescopy {
+  font-weight: bold;
+}
+.wishesname {
+  font-family: 'Palanquin';font-size: 22px; color: rgb(27, 122, 199); text-align: bottom; padding: 30px 0px 0px 0px; line-height: 0.5;
+}
+.wishestitle {
+  font-family: 'Palanquin';font-size: 18px; line-height: 0.5;
+}
+
+.hero-image {
+  background-image: url("assets/Hero 1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 1000px;
+  width: 1600;
+ }
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 200px;
+  width: 1000px;
+}
+.jumbotron.text-center {
+  margin: 0px ;
+  padding: 0px ;
+}
+
+#section2 {
+  background-image: url("assets/Letter.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 860px;
+  width: 100%; 
+  margin: 0px ;
+}
+
+.button {
+  background-color: #ff4da6;
+  border: 3px double grey;
+  box-shadow: 15px rgb(27, 122, 199);
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.lovestory-copy {
+  text-align: center;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 860px;
+  width: 65%;
+  margin: 0px ;
+  padding: 0px ; 
+}
+#section1, #section3, #section4 {
+  padding:0px 150px
+}
+
