@@ -66,7 +66,6 @@ h3 {
   bottom: 0;
   left: 50%;
   transform: translate(-50%, -50%);
-  /* height: 200px; */
   height: 25%;
 }
 
@@ -93,11 +92,6 @@ h3 {
   background-size: cover;
   width: 100%; 
 }
-
-.lovestory-container {
-  height: 860px;
-}
-
 
 .button {
   background-color: #ff4da6;
